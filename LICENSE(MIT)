@@ -1,9 +1,0 @@
-
-#### ✨ Yöntem B: Visual Studio Code Üzerinden
-1. Proje klasöründe sağ tık > `New File` > adını `README.md` yap
-2. Yukarıdaki örnek içeriği yapıştır
-3. Kaydet > Git’e ekle:
-```bash
-git add README.md
-git commit -m "README.md eklendi"
-git push
