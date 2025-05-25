@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Gerekli kütüphaneler
-!pip install scikit-learn --quiet
+#!pip install scikit-learn --quiet
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
