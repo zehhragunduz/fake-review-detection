@@ -68,7 +68,7 @@ BERTurk	0.87	0.86
 🧑‍🤝‍🧑 Ekip
 İsim	Sorumluluklar
 Zehra Gündüz	Veri temizleme, klasik ML modelleri, Git yönetimi
-Yusuf Yıldız	Derin öğrenme (RNN, BiLSTM), BERT uygulaması, testler
+Ayşe Sıla İnci	Derin öğrenme (RNN, BiLSTM), BERT uygulaması, testler
 
 📄 Lisans
 Bu proje MIT lisansı ile lisanslanmıştır.
